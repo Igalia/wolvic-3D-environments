@@ -13,7 +13,7 @@ This is the official repository of 3D environments for the Wolvic VR Browser.
       
          `$ for f in PATH_TO_UNCOMPRESSED_DIR/*png; do mipgen -f ktx -m 1 -c etc_srgb8_rgba_100 $f PATH_TO_DESTINATION_DIR/$(basename ${f%.*})_srgb.ktx; done`
 * The new `.ktx` textures should be 513k size. If they're bigger then you are either not using 1024x1024 images or you're generating textures with alpha layer
-3. The new einvorment must be in its own folder and it should provide 3 files
+3. The new environment must be in its own folder and it should provide 3 files
 * A 256x256 screenshot of the new enviroment (env_name.[png | jpg])
 * A zip file with the `rgb' textures (envName.zip(
 * A zip file with the 'srgb' textures (envName_srgb.zip)
