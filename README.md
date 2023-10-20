@@ -1,6 +1,6 @@
 # Wolvic 3D environments
 
-This is the official repository of 3D environments that are shown as available for the Wolvic VR Browser.  Environments are [cube map sky boxes](https://en.wikipedia.org/wiki/Cube_mapping) with 6 images (described below).  Anyone can submit a potential new environment for inclusion, and users can browse and select them from Wolvic itself through “Environment” section in the Settings.
+This is the official repository of 3D environments that are shown as available for the Wolvic VR Browser.  Environments are [cube map sky boxes](https://en.wikipedia.org/wiki/Cube_mapping) with 6 images (described below).  Anyone can submit a potential new environment for inclusion, and users can browse and select them from Wolvic itself through the “Environment” section in the Settings.
 
 
 ## Adding a new environment
